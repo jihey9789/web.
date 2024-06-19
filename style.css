@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'NPSfontBold';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2310@1.0/NPSfontBold.woff2') format('woff2');
+
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*블럭1번*/
+.box1{
+    width: 100%;
+    height: 1977px;
+    background-image: url(img/water01.png);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.cont1{
+    width: 1100px;
+    height: 1977px;
+    margin: 0 auto;
+    position: relative;
+}
+.name{
+    position: absolute;
+    top: 241.07px;
+    left: 202px;
+    width: 695.28px;
+    height: 256.92px;
+}
+.can01{
+    position: absolute;
+    margin-top: 656px;
+    left: 358px;
+    width: 385px;
+    height: 716px;
+}
+.txt01{
+    position: absolute;
+    width: 1100px;
+    height: 52px;
+    font-family: 'NPSfontBold',  normal;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 49px;
+    letter-spacing: 0px;
+    margin-top: 1396px;
+    color: #707070;
+}
+.txt02{
+    position: absolute;
+    width: 1063px;
+    height: 75px;
+    left: 37px;
+    font-family: 'NPSfontBold',  normal;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 40px; 
+    letter-spacing: 0px;
+    margin-top: 1471px;
+    color: #707070;
+}
+/*블럭 2번*/
+.box2{
+    width: 100%;
+    height: 468px;
+    background-color: #ffffff;
+}
+.cont2{
+    width: 1103px;
+    height: 468px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.slogan{
+    width: 1000px;
+    height: 155px;
+}
+/*블럭 3번*/
+.box3{
+    width: 100%;
+    height: 1192.49px;
+    background-image: url(img/water02.png);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.cont3{
+    width: 1100px;
+    height: 1192.49px;
+    margin: 0 auto;
+    position: relative;
+}
+.txt03{
+    position: absolute;
+    width: 502px;
+    height: 60px;
+    left: 16px;
+    font-family: 'NPSfontBold',  normal;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 49px;
+    letter-spacing: 0px;
+    margin-top: 392px;
+    color: #1D7C9E;
+}
+.txt04{
+    position: absolute;
+    width: 470px;
+    height: 171px;
+    left: 42px;
+    font-family: 'NPSfontBold',  normal;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 45px; 
+    letter-spacing: 0px;
+    margin-top: 574px;
+    color: #1D7C9E;
+}
+/*블럭 4번*/
+.box4{
+    width: 100%;
+    height: 1364px;
+    background-image: url(img/water03.png);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.cont4{
+    width: 1100px;
+    height: 1364px;
+    margin: 0 auto;
+    position: relative;
+}
+.can02{
+    position: absolute;
+    margin-top: 202px;
+    left: 139px;
+    width: 823px;
+    height: 708px;
+}
+.brand{
+    position: absolute;
+    margin-top: 1012px;
+    left: 196px;
+    width: 708.27px;
+    height: 110.75px;
+}
